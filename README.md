@@ -1,6 +1,6 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>ENTER YOUR NAME : ADITHYA V P</h3>
+<h3>ENTER YOUR NAME : ADITHYA V </h3>
 <h3>ENTER YOUR REGISTER NO : 212223110001</h3>
 <h3>EX. NO : 2</h3>
 <h3>DATE : 03/08/2026</h3>
